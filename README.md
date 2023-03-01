@@ -4,12 +4,14 @@
       1.4.2 -> any 2005 (gener): UML és acceptat per la ISO.
       2.0 -> any 2005 (agost): Múltiples eines es van afegir a UML.
       2.5 -> any 2015: Es fa més simple, s'adopta un funcionament més ràpid i s'arreglen els bugs d'altres versions.
+      2.5.1 -> any 2017: Darrera opci
       
 # 2. Creadors:
       Grady Booch, Ivar Jacobson, i James Rumbaugh.
 
 # 3. Què és Rational Rose?
-      És una poderosa interfície gràfica d'usuari (GUI) de la metodologia UML per a definir graficament aplicació del software, el seu comportament i       la seva arquitectura. Utilitza el mètode drag and drop.
+      És una poderosa interfície gràfica d'usuari (GUI) de la metodologia UML per a definir graficament aplicació del software, 
+      el seu comportament i la seva arquitectura. Utilitza el mètode drag and drop.
 
 # 4. Què te a veure en UML?
       Utilitza conceptes clàssics d'UML per a modelar graficament aplicacions software.
