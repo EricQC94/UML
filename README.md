@@ -1,9 +1,14 @@
 # 1. Versions:
 1.1 -> any 1997: La primera versió d'UML.
+
 1.5 -> any 2003: Eines com els procediments i el corrent de mecanismes es van afegir a UML.
+
 1.4.2 -> any 2005 (gener): UML és acceptat per la ISO.
+
 2.0 -> any 2005 (agost): Múltiples eines es van afegir a UML.
+
 2.5 -> any 2015: Es fa més simple, s'adopta un funcionament més ràpid i s'arreglen els bugs d'altres versions.
+
 2.5.1 -> any 2017: Darrera versi
       
 # 2. Creadors:
@@ -23,3 +28,9 @@ Object Management Group (Grup de gestió d'objectes).
 
 # 7. Quina relació té en UML?
 És la responsable de mantenir UML regularment desde que es va adoptar com a estàndart l'any 2005.
+
+
+Exercici 2:
+
+![Selecció_031](https://user-images.githubusercontent.com/113598440/222082633-c4757167-ae60-4d95-a908-8c0f38868f5e.png)
+
