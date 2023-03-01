@@ -4,7 +4,7 @@
       1.4.2 -> any 2005 (gener): UML és acceptat per la ISO.
       2.0 -> any 2005 (agost): Múltiples eines es van afegir a UML.
       2.5 -> any 2015: Es fa més simple, s'adopta un funcionament més ràpid i s'arreglen els bugs d'altres versions.
-      2.5.1 -> any 2017: Darrera opci
+      2.5.1 -> any 2017: Darrera versi
       
 # 2. Creadors:
       Grady Booch, Ivar Jacobson, i James Rumbaugh.
