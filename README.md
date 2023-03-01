@@ -5,14 +5,20 @@
       2.0 -> any 2005 (agost): Múltiples eines es van afegir a UML.
       2.5 -> any 2015: Es fa més simple, s'adopta un funcionament més ràpid i s'arreglen els bugs d'altres versions.
       
-# 2. Grady Booch, Ivar Jacobson, i James Rumbaugh.
+# 2. Creadors:
+      Grady Booch, Ivar Jacobson, i James Rumbaugh.
 
-# 3. És una poderosa interfície gràfica d'usuari (GUI) de la metodologia UML per a definir graficament aplicació del software, el seu comportament i la seva arquitectura. Utilitza el mètode drag and drop.
+# 3. Què és Rational Rose?
+      És una poderosa interfície gràfica d'usuari (GUI) de la metodologia UML per a definir graficament aplicació del software, el seu comportament i       la seva arquitectura. Utilitza el mètode drag and drop.
 
-# 4. Utilitza conceptes clàssics d'UML per a modelar graficament aplicacions software.
+# 4. Què te a veure en UML?
+      Utilitza conceptes clàssics d'UML per a modelar graficament aplicacions software.
 
-# 5. Al gener de l'any 2005.
+# 5. Quan es va convertir en estàndart?
+      Al gener de l'any 2005.
 
-# 6. Object Management Group (Grup de gestió d'objectes).
+# 6. Què vol dir OMG?
+      Object Management Group (Grup de gestió d'objectes).
 
-# 7. És la responsable de mantenir UML regularment desde que es va adoptar coma estàndart l'any 2005.
+# 7. Quina relació té en UML?
+      És la responsable de mantenir UML regularment desde que es va adoptar coma estàndart l'any 2005.
