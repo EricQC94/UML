@@ -36,3 +36,7 @@ Object Management Group (Grup de gestió d'objectes).
 
 ![Selecció_031](https://user-images.githubusercontent.com/113598440/222082633-c4757167-ae60-4d95-a908-8c0f38868f5e.png)
 
+(Corregit):
+![Selecció_032](https://user-images.githubusercontent.com/113598440/222085319-873e1683-f118-459b-9063-8ba9f59f0094.png)
+
+
