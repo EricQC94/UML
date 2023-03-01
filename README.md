@@ -23,4 +23,5 @@
       Object Management Group (Grup de gestió d'objectes).
 
 # 7. Quina relació té en UML?
-      És la responsable de mantenir UML regularment desde que es va adoptar coma estàndart l'any 2005.
+      És la responsable de mantenir UML regularment desde que es va adoptar coma 
+      estàndart l'any 2005.
