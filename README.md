@@ -10,8 +10,7 @@
       Grady Booch, Ivar Jacobson, i James Rumbaugh.
 
 # 3. Què és Rational Rose?
-      És una poderosa interfície gràfica d'usuari (GUI) de la metodologia UML per a definir graficament aplicació del software, 
-      el seu comportament i la seva arquitectura. Utilitza el mètode drag and drop.
+És una poderosa interfície gràfica d'usuari (GUI) de la metodologia UML per a definir graficament aplicació del software, el seu comportament i la seva arquitectura. Utilitza el mètode drag and drop.
 
 # 4. Què te a veure en UML?
       Utilitza conceptes clàssics d'UML per a modelar graficament aplicacions software.
