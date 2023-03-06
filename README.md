@@ -39,4 +39,6 @@ Object Management Group (Grup de gestió d'objectes).
 (Corregit):
 ![Selecció_032](https://user-images.githubusercontent.com/113598440/222085319-873e1683-f118-459b-9063-8ba9f59f0094.png)
 
+# Exercici 3:
 
+https://lucid.app/lucidchart/b2c4cc06-1d6d-4edf-b732-482dd469376f/edit?view_items=B4BBBEKg-2Wb&invitationId=inv_aefa69ff-d1cd-4108-ae66-8fe1c03764da
